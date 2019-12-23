@@ -1,0 +1,11 @@
+
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ÿÿ¯ûÿÿÿÿ
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä—„–
+csquid:S1854"LRemove this useless assignment to local variable "scheduledExecutorService".(²ì¹˜
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾Š–‘
+Tsquid:S1481"=Remove this unused "scheduledExecutorService" local variable.(²ì¹˜
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢Ğ˜÷

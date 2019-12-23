@@ -1,0 +1,8 @@
+
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+gsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ø³®º
+Ysquid:S1854"=Remove this useless assignment to local variable "dataValue".(û…õµÿÿÿÿÿ
+Tsquid:S1854"=Remove this useless assignment to local variable "dataValue".(¦—‘ª
+Jsquid:S1481".Remove this unused "dataValue" local variable.(û…õµÿÿÿÿÿ
+Esquid:S1481".Remove this unused "dataValue" local variable.(¦—‘ª
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´÷Æþÿÿÿÿ

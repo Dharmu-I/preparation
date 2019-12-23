@@ -211,6 +211,7 @@
       <workItem from="1576736548020" duration="46000" />
       <workItem from="1576736737682" duration="1029000" />
       <workItem from="1576737845710" duration="3864000" />
+      <workItem from="1577095774126" duration="35000" />
     </task>
     <servers />
   </component>
@@ -218,6 +219,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="554" y="347" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577095795984">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="554" y="347" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1577095795984" />
     <state width="1398" height="331" key="GridCell.Tab.0.bottom" timestamp="1577095550505">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
